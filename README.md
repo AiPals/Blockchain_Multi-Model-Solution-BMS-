@@ -15,7 +15,8 @@ Technologies Used
 GPT-4 Turbo API for model fine-tuning.
 Advanced vector databases and indexing tools.
 Integration with LangChain for enhanced data processing.
-Vision and Goals
+
+## Vision and Goals
 
 Our goal is to create a robust and ethical AI-driven cybersecurity system. TMMS is not just a security solution; it's a commitment to responsible and advanced AI use, safeguarding against evolving cyber threats.
 
