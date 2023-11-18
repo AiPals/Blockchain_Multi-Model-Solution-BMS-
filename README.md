@@ -32,4 +32,4 @@ We welcome collaboration and contributions. Please read CONTRIBUTING.md for deta
 
 Creative Commons Licenses. Stay tuned for open source projects!
 
-email: JesusC@aipalsmail.com
+
