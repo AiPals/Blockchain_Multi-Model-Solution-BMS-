@@ -26,7 +26,7 @@ Instructions coming soon!
 
 ## Contributing
 
-We welcome collaboration and contributions. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+We welcome collaboration and contributions. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests. email: JesusC@aipalsmail.com
 
 ## License
 
