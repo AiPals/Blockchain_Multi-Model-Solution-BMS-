@@ -1,8 +1,8 @@
-# Tor Multi-Model Solution (TMMS)
+# Blockchain Multi-Model Solution (BMS)
 
 ## Overview
 
-Tor Multi-Model Solution (TMMS) is an innovative project designed to enhance cybersecurity using advanced AI technologies. At its core, TMMS integrates multimodal AI systems to analyze and secure various data types, including video, audio, and 3D content.
+Blockchain Multi-Model Solution (BMS) is an innovative project designed to enhance cybersecurity using advanced AI technologies. At its core, BMS integrates multi-modal AI systems to analyze and secure various data types, including video, audio, data, photo, and 3D content.
 
 ## Key Features
 
@@ -18,7 +18,7 @@ Integration with LangChain for enhanced data processing.
 
 ## Vision and Goals
 
-Our goal is to create a robust and ethical AI-driven cybersecurity system. TMMS is not just a security solution; it's a commitment to responsible and advanced AI use, safeguarding against evolving cyber threats.
+Our goal is to create a robust and ethical AI-driven cybersecurity system. BMS is not just a security solution; it's a commitment to responsible and advanced AI use, safeguarding against evolving cyber threats.
 
 ## Getting Started
 
